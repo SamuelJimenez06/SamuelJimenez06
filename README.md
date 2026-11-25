@@ -38,4 +38,4 @@ Estas son las tecnologías principales con las que trabajo en mi formación y pr
 
 * **LinkedIn:** https://linkedin.com/in/samuel-jiménez
 * **Correo:** samu.jimenez.jimenez2@gmail.com
-* **Portfolio:** [tu-web.com](https://tu-web.com) *(elimina esta línea si aún no tienes uno)*
+* **Portfolio:** https://samueljimenez06.github.io/
